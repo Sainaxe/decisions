@@ -1,0 +1,13 @@
+Linux
+
+2022 05 14
+
+Реешние проблем с библиотеками 
+
+#conda create -n tensorflow python=3.5 anaconda
+#activate tensorflow
+#conda install theano
+#conda install mingw libpython
+#pip install tensorflow
+#pip install keras
+#conda update --all
